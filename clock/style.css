@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(54, 54, 54);
+
+}
+
+#zegar {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 192px;
+    font-family: 'VT323', monospace;
+    color: rgb(45, 253, 208);
+    transform: translate(-50%, -50%);
+    letter-spacing: 10px;
+}
